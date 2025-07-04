@@ -1,6 +1,6 @@
 
 **Description**: This is a AI model that can make Decision based on [[Input]].
-and Give me suggestions through [[Output]]
+and Give me suggestions through [[Output]]. 
 
 | Motherboard                 |
 | --------------------------- |
