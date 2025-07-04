@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "61656e2f09bb2315",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ded32851da16a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a797d0b7e83cdda1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98b5737e45058dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df9d1d385307f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a5a2f626b44552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e441a74636336376",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf4c2ef9cce7401e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "20c04b22259a5030",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0816a7abf6279f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aaef668367dc602",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-07-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-07-04"
+            }
+          },
+          {
+            "id": "f136ff51c1afa2a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-07-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-07-04"
+            }
+          },
+          {
+            "id": "87268d205bba96ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19cb452fc240315c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-07-04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-07-04"
+            }
+          },
+          {
+            "id": "98007f3df1b4524d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c6939b5ee53f06d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "a797d0b7e83cdda1",
+  "lastOpenFiles": [
+    "Robot_test1/Output.md",
+    "Robot_test1/Speaker.md",
+    "Robot_test1/WebView.md",
+    "Robot_test1/Bluetooth Headphone.md",
+    "Robot_test1/Brain - MCU.md",
+    "2025-07-04.md",
+    "Robot_test1/Canon EOS R10.md",
+    "Robot_test1/Bluetooth Speaker.md",
+    "Robot_test1/Input.md",
+    "Robot_test1/Camera.md",
+    "Robot_test1/Controls.md",
+    "Robot_test1/Rode wireless pro.md",
+    "Robot_test1/Logitech Webcam.md",
+    "Robot_test1/Laptop Built-in Speaker.md",
+    "Robot_test1/laptop built-in screen.md",
+    "Robot_test1/Laptop Built-in Mic.md",
+    "Robot_test1/CMD.md",
+    "Robot_test1/Text.md",
+    "Robot_test1/Sensors.md",
+    "Robot_test1/Screen.md",
+    "Robot_test1/Microphone.md",
+    "Robot_test1/Output",
+    "Robot_test1/Drawing 2025-07-03 20.19.21.excalidraw.md",
+    "Untitled.canvas",
+    "Robot_test1",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
