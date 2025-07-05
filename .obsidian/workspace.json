@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ded32851da16a02",
+        "id": "ab5d7a7ff1fa446c",
         "type": "tabs",
         "children": [
           {
-            "id": "a797d0b7e83cdda1",
+            "id": "61b1e37b943eafb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-04.md",
+                "file": "AI and Machine Learning Learning Roadmap with Book Recommendations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-04"
+              "title": "AI and Machine Learning Learning Roadmap with Book Recommendations"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-07-04.md",
+                "file": "AI and Machine Learning Learning Roadmap with Book Recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-04"
+              "title": "Backlinks for AI and Machine Learning Learning Roadmap with Book Recommendations"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-07-04.md",
+                "file": "AI and Machine Learning Learning Roadmap with Book Recommendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-07-04"
+              "title": "Outgoing links from AI and Machine Learning Learning Roadmap with Book Recommendations"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-07-04.md",
+                "file": "AI and Machine Learning Learning Roadmap with Book Recommendations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-04"
+              "title": "Outline of AI and Machine Learning Learning Roadmap with Book Recommendations"
             }
           },
           {
@@ -197,14 +197,29 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c6939b5ee53f06d1",
+  "active": "61b1e37b943eafb8",
   "lastOpenFiles": [
+    "_OceanofPDF.com_pattern_recognition_and_machine_learning-_cristopher_bishop.pdf.md",
+    "AI and Machine Learning Learning Roadmap with Book Recommendations.md",
+    "Books/_OceanofPDF.com_pattern_recognition_and_machine_learning_-_cristopher_bishop.pdf",
+    "Books/_OceanofPDF.com_Deep_Learning_Adaptive_Computation_and_Machine_Learning_series_-_Ian_Goodfellow.pdf",
+    "Books/Introduction to Machine Learning with Python ( PDFDrive.com )-min.pdf",
+    "Books/Andrew Park - Data Science for Beginners_ 4 Books in 1_ Python Programming, Data Analysis, Machine Learning. A Complete Overview to Master The Art of Data Science From Scratch Using Python for Busines.pdf",
+    "Books/_OceanofPDF.com_Python_Programming__4_Books_in_1_-_The_Com_-_Andrew_Park.pdf",
+    "Books/_OceanofPDF.com_Hands-On_Machine_Learning_with_Scikit-Learn_Keras_and_Tensorflow_-_Aurelien_Geron.pdf",
+    "Books/grok_report.pdf",
+    "Books/_OceanofPDF.com_Deep_Learning_with_Python_-_Francois_Chollet.pdf",
+    "Books/_OceanofPDF.com_Python_for_Data_Analysis_2nd_Edition_-_Wes_McKinney.pdf",
+    "Books/_OceanofPDF.com_Building_Machine_Learning_Powered_Applications_-_Emmanuel_Ameisen.pdf",
+    "Books/IMG_20250704011718.jpg",
+    "2025-07-04.md",
+    "Excalidraw/Drawing 2025-07-04 19.26.56.excalidraw.md",
+    "Untitled.canvas",
     "Robot_test1/Output.md",
     "Robot_test1/Speaker.md",
     "Robot_test1/WebView.md",
     "Robot_test1/Bluetooth Headphone.md",
     "Robot_test1/Brain - MCU.md",
-    "2025-07-04.md",
     "Robot_test1/Canon EOS R10.md",
     "Robot_test1/Bluetooth Speaker.md",
     "Robot_test1/Input.md",
@@ -220,11 +235,7 @@
     "Robot_test1/Sensors.md",
     "Robot_test1/Screen.md",
     "Robot_test1/Microphone.md",
-    "Robot_test1/Output",
     "Robot_test1/Drawing 2025-07-03 20.19.21.excalidraw.md",
-    "Untitled.canvas",
-    "Robot_test1",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
