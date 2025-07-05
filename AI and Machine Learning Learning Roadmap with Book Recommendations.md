@@ -17,6 +17,7 @@
 ## Step 2: Master Python Libraries for Machine Learning
 
 **Book Name:** [[_OceanofPDF.com_Python_for_Data_Analysis_2nd_Edition_-_Wes_McKinney.pdf]] 
+
 **What I Can Learn:**
 
 - In-depth use of NumPy and pandas for data manipulation and analysis.
@@ -31,6 +32,7 @@
 ## Step 3: Dive into Deep Learning
 
 **Book Name:** [[_OceanofPDF.com_Deep_Learning_with_Python_-_Francois_Chollet.pdf]]  
+
 **What I Can Learn:**
 
 - Fundamentals of neural networks, including layers, neurons, and activation functions.
